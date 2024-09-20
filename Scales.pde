@@ -1,6 +1,6 @@
 void setup() {
  size(300,300);
- noLoop();
+
 }
 void draw(){
   background( (int)(Math.random()*256), (int)(Math.random()*256), (int)(Math.random()*256) );
